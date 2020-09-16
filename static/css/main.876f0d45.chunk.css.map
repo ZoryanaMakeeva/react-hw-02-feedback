@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,0BAEI,yBAA0B,CAC1B,WAAY,CACZ,WAAY,CACZ,qBAAsB,CACtB,iBAAkB,CANtB,iBACE,0CAA6C,CAC7C,UAAW","file":"main.876f0d45.chunk.css","sourcesContent":[".feedback-widget {\n  font-family: \"Open Sans\", \"Arial\", sans-serif;\n  color: #222;\n}\n"]}
